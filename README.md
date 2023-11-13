@@ -11,3 +11,13 @@ AesmlyOS is small and fast, with a minimal footprint. It can be loaded into memo
 
 Note: AesmlyOS is a hobby project by one developer, it's perpose is to make a better looking version of MikeOS. As such, updates may be random.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Building, Installing And Modifying AesmlyOS
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##### Installing
+To install Aesmly flash it to a usb or floppy disk and plug it in! Well, boot into it anyway.
+You can use a program like Etcher or follow the MikeOS user instructions [here]([https://link-url.com](https://mikeos.sourceforge.net/handbook-user.html)https://mikeos.sourceforge.net/handbook-user.html) to etch it using dd (Linux).
+
+##### Building and Modifying
+```
+
+```
